@@ -1,0 +1,32 @@
+body{
+    background: rgb(55, 199, 224);
+
+}
+
+header{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section{
+    background: white;
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+img#foto{
+    display: block;
+    margin: auto;
+    padding: 10px;
+    
+}
